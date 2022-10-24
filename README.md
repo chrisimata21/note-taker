@@ -22,4 +22,4 @@ To install, use `git clone` to save to local repository.
 Once everything is installed properly. Run `npm start` in the command line.
 
 ### Demo
-<img width="1470" alt="Screen Shot 2022-10-24 at 12 14 53 PM" src="https://user-images.githubusercontent.com/108028584/197608320-ce781552-7df2-4dce-bb90-73d7736c06f4.png">
+[Link to video demo](https://user-images.githubusercontent.com/108028584/197608931-cc2781f4-b400-490e-aa04-793b36215410.webm)
